@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @mugtabaabdalrhman
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m mugtaba
+- 👀 I’m interested in programing
+- 🌱 I’m currently learning laravel
 - 📫 How to reach me:
   mugtabaabdalrhman98@gmail.com
 
